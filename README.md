@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **1seif1ahmed1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1lD1dKkVZIqeVB3r8arNT-IfZHoRfPmPG](https://drive.google.com/drive/folders/1lD1dKkVZIqeVB3r8arNT-IfZHoRfPmPG)
+- 📄 Know about my experiences [My CV](https://drive.google.com/drive/folders/1lD1dKkVZIqeVB3r8arNT-IfZHoRfPmPG)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
