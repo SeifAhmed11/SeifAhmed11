@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifahmed11&label=Profile%20views&color=0e75b6&style=flat" alt="seifahmed11" /> </p>
 
-- 💬 Ask me about **web developer**
+- 💻 I specialize in **web development** (front-end & back-end) and enjoy working with tools like .Net, React, and WordPress.
+
+- 🏆 Achievements:  
+  - **Bronze Medalist** in Huawei’s national competition in Egypt.  
+  - Published educational content on **YouTube** about building e-commerce websites.
+ 
+- 🌟 I'm passionate about **artificial intelligence** and creating projects that blend AI and web technologies.  
+
+- 💬 Feel free to ask me about **web development, AI concepts, or programming tips**.  
 
 - 📫 How to reach me **1seif1ahmed1@gmail.com**
 
