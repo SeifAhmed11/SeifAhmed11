@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seif Ahmed</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer & Payments Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifahmed11&label=Profile%20views&color=0e75b6&style=flat" alt="seifahmed11" /> </p>
 
-- 💻 I specialize in **web development** (front-end & back-end) and enjoy working with tools like .Net, React, and WordPress.
+- 💻 I specialize in **Full Stack & Payments Engineer** and enjoy working with tools like .Net, React, and WordPress.
 
 - 🏆 Achievements:  
   - **Bronze Medalist** in Huawei’s national competition in Egypt.  
